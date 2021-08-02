@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VadimZP
 - 📫 My email - vadymchernykh@gmail.com
-- 👾 Like my photos on Instagram - @vadim_nzt (https://www.instagram.com/vadim_nzt/)
 
 <!---
 VadimZP/VadimZP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
