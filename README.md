@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VadimZP
+- 👋 Hi, I’m Vadim
 - 📫 My email - vadymchernykh@gmail.com
 
 <!---
