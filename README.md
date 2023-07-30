@@ -1,4 +1,4 @@
-# **Hi, I’m Vadym** 👋
+# **Hi, I’m Vadim** 👋
 
 📫 **Email**     — vadymchernykh@gmail.com
 
