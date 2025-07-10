@@ -2,8 +2,6 @@
 
 📫 **Email**     — vadymchernykh@gmail.com
 
-🖇️ **LinkedIn**  — https://www.linkedin.com/in/vadymchernykh/
-
 **Ⓜ️edium** (I write about tech here 🤘) — https://medium.com/@vadymchernykh
 <!---
 VadimZP/VadimZP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
